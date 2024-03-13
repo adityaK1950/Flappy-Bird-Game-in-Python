@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
  ```bash
  git clone [https://github.com/your_username/flappy-bird.git](https://github.com/adityaK1950/Flappy-Bird-Game-in-Python)
  ```
-  or direct download the [zip file]()
+  or direct download the [zip file](https://github.com/adityaK1950/Flappy-Bird-Game-in-Python)
 
 3. Navigate to the project directory:
  ```bash
