@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Clone the repository:
  ```bash
- git clone https://github.com/your_username/flappy-bird.git
+ git clone [https://github.com/your_username/flappy-bird.git](https://github.com/adityaK1950/Flappy-Bird-Game-in-Python)
  ```
   or direct download the [zip file]()
 
