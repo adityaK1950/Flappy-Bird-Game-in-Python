@@ -14,7 +14,7 @@ Watch a Demo video of a Flappy Bird Game [Link](https://github.com/adityaK1950/S
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites 🛠️
+## Prerequisites 🛠️
 
 Before you begin, ensure you have met the following requirements:
 - Python 3.x installed on your local machine.
