@@ -9,6 +9,7 @@ A simple Flappy Bird game implemented in Python using the Pygame library.
 ### Demo Video 
 ![FlappyBirdGame-Play](https://github.com/adityaK1950/Space-Invader-Game-in-Python/assets/156563981/c5fd8ce5-2c1c-46fe-b23b-408ab009e620)
 
+> Watch a Demo video of a Flappy Bird Game [Direct Link](https://github.com/adityaK1950/Space-Invader-Game-in-Python/assets/156563981/509a9c1c-34a2-4132-a0d9-b8ba3ce2774a)
 
 
 ## Getting Started 🚀
